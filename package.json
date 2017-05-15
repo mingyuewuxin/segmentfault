@@ -4,19 +4,16 @@
   "description": "a vue and pwa program.",
   "main": "index.js",
   "scripts": {
+    "start": "node segmentfault/build/dev-server",
     "test": "node test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/WickedDogg/netease-PWA.git"
-  },
   "keywords": [
-    "netease-PWA"
+    "segmentfault"
   ],
   "author": "Yazhou Fu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WickedDogg/netease-PWA/issues"
+    "url": "https://github.com/WickedDogg/segmentfault/issues"
   },
-  "homepage": "https://github.com/WickedDogg/netease-PWA#readme"
+  "homepage": "https://github.com/WickedDogg/segmentgault#readme"
 }
