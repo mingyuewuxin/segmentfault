@@ -1,2 +1,2 @@
-# netease-PWA
-a PWA music player,using netease music API and vue
+# segmentfault
+a vue program, simulating segmentfault app.
